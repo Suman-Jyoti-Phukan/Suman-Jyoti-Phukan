@@ -1,7 +1,6 @@
 <img alt="banner" 
 width="100%" height="230" src="https://i.pinimg.com/originals/5b/2a/69/5b2a6944980ca61a117e241f048c7f1d.gif"/>
 
-<h1 align="center">Hello, 👋 I'm Suman Jyoti Phukan</h1>
 <h4 align="center">An enthusiastic web developer skilled in both frontend and backend technologies</h3>
 
 <img alt="cowboy bishop" 
