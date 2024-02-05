@@ -17,8 +17,8 @@ width="400" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjEx
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sphukan54995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sphukan54995" height="30" width="40" /></a>
-<a href="https://fb.com/dead.sun.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dead.sun.5" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/sphukan54995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sphukan54995" height="30" width="40" /></a>
+<a href="https://fb.com/dead.sun.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dead.sun.5" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
