@@ -5,7 +5,7 @@ width="100%" height="280" src="https://i.pinimg.com/originals/5b/2a/69/5b2a69449
 
 <img alt="cowboy bishop" 
 align="right"
-width="400" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhweG5sd2N1YjF2YnF0bGdnaXp6N3VvN3gwZ292c2x4ZGoxdmR3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
+width="100%" height="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhweG5sd2N1YjF2YnF0bGdnaXp6N3VvN3gwZ292c2x4ZGoxdmR3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
 
 <!-- <p align="left"> <a href="https://twitter.com/sphukan54995" target="blank"><img src="https://img.shields.io/twitter/follow/sphukan54995?logo=twitter&style=for-the-badge" alt="sphukan54995" /></a> </p>
 
